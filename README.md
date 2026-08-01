@@ -10,7 +10,7 @@ The project also includes a lightweight **Flask web application** that allows us
 
 ### 🏠 MovieMate Interface
 
-![MovieMate Home Page](screenshots/home.png)
+![MovieMate home](screenshots/home.png)
 
 ### 🎬 Movie Recommendations
 
